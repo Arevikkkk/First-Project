@@ -1,5 +1,3 @@
-# First-Project
-<!DOCTYPE html>
 <html>
     <head>
         <style>

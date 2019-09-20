@@ -77,12 +77,8 @@
                 <div>
                     <p>&#169 2019 Arevik Harutyunyan<p>
                     <i class="fas fa-anchor"> </i>
-                </div>
-            </footer>
-        </body>
         
         <script>
         
         </script>
-    </head>
-</html>
+    
